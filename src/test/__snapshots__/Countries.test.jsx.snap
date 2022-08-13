@@ -1,0 +1,7 @@
+// Vitest Snapshot v1
+
+exports[`Renders the App Component 1`] = `
+<section
+  className="grid"
+/>
+`;

@@ -1,0 +1,43 @@
+// Vitest Snapshot v1
+
+exports[`Renders the App Component 1`] = `
+<div>
+  <div
+    className="Search"
+  >
+    <form
+      className="form_input"
+      onSubmit={[Function]}
+    >
+      <input
+        id="search"
+        name="search"
+        onChange={[Function]}
+        placeholder="Search Countries"
+        type="search"
+        value=""
+      />
+    </form>
+  </div>
+  <div
+    className="Search"
+  >
+    <form
+      className="form_input"
+      onSubmit={[Function]}
+    >
+      <input
+        id="search"
+        name="search"
+        onChange={[Function]}
+        placeholder="Try Writing asia "
+        type="search"
+        value=""
+      />
+    </form>
+  </div>
+  <section
+    className="grid"
+  />
+</div>
+`;
