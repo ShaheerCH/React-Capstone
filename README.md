@@ -4,7 +4,7 @@
 
 ### Links
 
-- Solution URL: [GitHub Code]()
+- Solution URL: [GitHub Code](https://github.com/ShaheerCH/React-Capstone)
 - Live Site URL: [React-Capstone](https://mellow-nasturtium-6bd1e4.netlify.app/)
 - Video Presentation: [React-Capstone Video Presentation]()
 
