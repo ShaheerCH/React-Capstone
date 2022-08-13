@@ -6,7 +6,7 @@
 
 - Solution URL: [GitHub Code](https://github.com/ShaheerCH/React-Capstone)
 - Live Site URL: [React-Capstone](https://mellow-nasturtium-6bd1e4.netlify.app/)
-- Video Presentation: [React-Capstone Video Presentation]()
+- Video Presentation: [React-Capstone Video Presentation](https://www.loom.com/share/1e84789da7e64b3482945855c6f54cf8)
 
 ## My process
 
