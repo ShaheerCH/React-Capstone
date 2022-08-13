@@ -1,0 +1,29 @@
+// Vitest Snapshot v1
+
+exports[`Renders the App Component 1`] = `
+<div
+  className="header"
+>
+  <div
+    className="header__logo"
+  >
+    <a
+      className="header__link"
+      href="/"
+      onClick={[Function]}
+    >
+      <h4>
+        Where in the World?
+      </h4>
+    </a>
+  </div>
+  <div
+    className="logo__mode"
+  >
+    <i
+      className="fa-solid fa-moon"
+    />
+     Dark Mode
+  </div>
+</div>
+`;

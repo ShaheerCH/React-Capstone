@@ -1,0 +1,23 @@
+.flag__section img {
+  border-radius: 5px 5px 0 0;
+}
+
+.details {
+  border-radius: 0 0 5px 5px;
+}
+
+h2 {
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+h3 {
+  padding-bottom: 5px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+h3 > span {
+  color: #5983fc;
+}
