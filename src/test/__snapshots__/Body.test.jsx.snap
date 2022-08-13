@@ -13,7 +13,24 @@ exports[`Renders the App Component 1`] = `
         id="search"
         name="search"
         onChange={[Function]}
-        placeholder="Search"
+        placeholder="Search Countries"
+        type="search"
+        value=""
+      />
+    </form>
+  </div>
+  <div
+    className="Search"
+  >
+    <form
+      className="form_input"
+      onSubmit={[Function]}
+    >
+      <input
+        id="search"
+        name="search"
+        onChange={[Function]}
+        placeholder="Try Writing asia "
         type="search"
         value=""
       />
