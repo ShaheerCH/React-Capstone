@@ -59,4 +59,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to [Dennis Sakwa](https://www.behance.net/sakwadesignstudio) for the design
+- Hat tip to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the design
