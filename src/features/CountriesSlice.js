@@ -3,7 +3,6 @@
 import axios from 'axios';
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
-
 export const fetchAsyncCountries = createAsyncThunk('countries/fetchAyncCountries', async () => {
   const countriesData = await axios.get('https://restcountries.com/v3.1/all');
   return countriesData.data;
